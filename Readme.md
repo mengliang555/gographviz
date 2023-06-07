@@ -21,7 +21,7 @@ output := graph.String()
 The [godoc](https://godoc.org/github.com/awalterschulze/gographviz) includes some more examples.
 
 ### Installation ###
-go get github.com/awalterschulze/gographviz
+go get github.com/mengliang555/gographviz
 
 ### Tests ###
 

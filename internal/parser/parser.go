@@ -6,8 +6,8 @@ import (
 	"bytes"
 	"fmt"
 
-	parseError "github.com/awalterschulze/gographviz/internal/errors"
-	"github.com/awalterschulze/gographviz/internal/token"
+	parseError "github.com/mengliang555/gographviz/internal/errors"
+	"github.com/mengliang555/gographviz/internal/token"
 )
 
 const (
